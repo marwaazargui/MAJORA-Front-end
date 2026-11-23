@@ -1,0 +1,11 @@
+{
+  "monthly": 1500,
+  "categories": {
+    "Food": 400,
+    "Transport": 250,
+    "Shopping": 200,
+    "Bills": 300,
+    "Entertainment": 150,
+    "Others": 200
+  }
+}

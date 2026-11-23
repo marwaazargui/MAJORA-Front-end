@@ -1,0 +1,233 @@
+[
+  {
+    "id": "t1",
+    "date": "2026-11-19",
+    "description": "Lunch at cafe",
+    "category": "Food",
+    "amount": 12.5
+  },
+  {
+    "id": "t2",
+    "date": "2026-11-18",
+    "description": "Bus ticket",
+    "category": "Transport",
+    "amount": 4
+  },
+  {
+    "id": "t3",
+    "date": "2026-11-17",
+    "description": "New headphones",
+    "category": "Shopping",
+    "amount": 45.9
+  },
+  {
+    "id": "t4",
+    "date": "2026-11-16",
+    "description": "Electricity bill",
+    "category": "Bills",
+    "amount": 120
+  },
+  {
+    "id": "t5",
+    "date": "2026-11-15",
+    "description": "Movie night",
+    "category": "Entertainment",
+    "amount": 15
+  },
+  {
+    "id": "t6",
+    "date": "2026-11-14",
+    "description": "Grocery run",
+    "category": "Food",
+    "amount": 45.2
+  },
+  {
+    "id": "t7",
+    "date": "2026-11-14",
+    "description": "Taxi to airport",
+    "category": "Transport",
+    "amount": 60
+  },
+  {
+    "id": "t8",
+    "date": "2026-11-13",
+    "description": "Dinner with friends",
+    "category": "Food",
+    "amount": 62.3
+  },
+  {
+    "id": "t9",
+    "date": "2026-11-12",
+    "description": "Internet bill",
+    "category": "Bills",
+    "amount": 80
+  },
+  {
+    "id": "t10",
+    "date": "2026-11-12",
+    "description": "Gym day pass",
+    "category": "Others",
+    "amount": 40
+  },
+  {
+    "id": "t11",
+    "date": "2026-11-11",
+    "description": "Sneakers",
+    "category": "Shopping",
+    "amount": 59.9
+  },
+  {
+    "id": "t12",
+    "date": "2026-11-10",
+    "description": "Weekly groceries",
+    "category": "Food",
+    "amount": 38.4
+  },
+  {
+    "id": "t13",
+    "date": "2026-11-10",
+    "description": "Train pass",
+    "category": "Transport",
+    "amount": 52
+  },
+  {
+    "id": "t14",
+    "date": "2026-11-09",
+    "description": "Concert ticket",
+    "category": "Entertainment",
+    "amount": 39.9
+  },
+  {
+    "id": "t15",
+    "date": "2026-11-08",
+    "description": "Breakfast",
+    "category": "Food",
+    "amount": 54.1
+  },
+  {
+    "id": "t16",
+    "date": "2026-11-08",
+    "description": "Phone credit",
+    "category": "Bills",
+    "amount": 50
+  },
+  {
+    "id": "t17",
+    "date": "2026-11-07",
+    "description": "Pharmacy",
+    "category": "Others",
+    "amount": 35
+  },
+  {
+    "id": "t18",
+    "date": "2026-11-06",
+    "description": "Weekend brunch",
+    "category": "Food",
+    "amount": 41.9
+  },
+  {
+    "id": "t19",
+    "date": "2026-11-05",
+    "description": "Fuel",
+    "category": "Transport",
+    "amount": 48
+  },
+  {
+    "id": "t20",
+    "date": "2026-11-05",
+    "description": "Streaming bundle",
+    "category": "Entertainment",
+    "amount": 35.9
+  },
+  {
+    "id": "t21",
+    "date": "2026-11-04",
+    "description": "Jacket",
+    "category": "Shopping",
+    "amount": 48.8
+  },
+  {
+    "id": "t22",
+    "date": "2026-11-03",
+    "description": "Farmers market",
+    "category": "Food",
+    "amount": 47
+  },
+  {
+    "id": "t23",
+    "date": "2026-11-03",
+    "description": "Bike repair",
+    "category": "Others",
+    "amount": 20
+  },
+  {
+    "id": "t24",
+    "date": "2026-11-02",
+    "description": "Bookstore",
+    "category": "Shopping",
+    "amount": 33
+  },
+  {
+    "id": "t25",
+    "date": "2026-11-02",
+    "description": "Metro top-up",
+    "category": "Transport",
+    "amount": 46
+  },
+  {
+    "id": "t26",
+    "date": "2026-11-02",
+    "description": "Bowling",
+    "category": "Entertainment",
+    "amount": 30
+  },
+  {
+    "id": "t27",
+    "date": "2026-11-01",
+    "description": "Pizza night",
+    "category": "Food",
+    "amount": 36.5
+  },
+  {
+    "id": "t28",
+    "date": "2026-11-01",
+    "description": "Coffee beans",
+    "category": "Food",
+    "amount": 44.5
+  },
+  {
+    "id": "o1",
+    "date": "2026-10-28",
+    "description": "Rent share",
+    "category": "Bills",
+    "amount": 400
+  },
+  {
+    "id": "o2",
+    "date": "2026-10-21",
+    "description": "Groceries",
+    "category": "Food",
+    "amount": 312.3
+  },
+  {
+    "id": "o3",
+    "date": "2026-10-15",
+    "description": "Winter coat",
+    "category": "Shopping",
+    "amount": 150
+  },
+  {
+    "id": "o4",
+    "date": "2026-10-09",
+    "description": "Cinema",
+    "category": "Entertainment",
+    "amount": 120
+  },
+  {
+    "id": "o5",
+    "date": "2026-10-03",
+    "description": "Train tickets",
+    "category": "Transport",
+    "amount": 130
+  }
+]

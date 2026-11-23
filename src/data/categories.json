@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Food",
+    "color": "#8B5CF6",
+    "tint": "#F3E8FF",
+    "text": "#9333EA"
+  },
+  {
+    "name": "Transport",
+    "color": "#4F9CF9",
+    "tint": "#E3F0FF",
+    "text": "#2563EB"
+  },
+  {
+    "name": "Shopping",
+    "color": "#F472B6",
+    "tint": "#FFE4F1",
+    "text": "#DB2777"
+  },
+  {
+    "name": "Bills",
+    "color": "#FDB45C",
+    "tint": "#FFF0D9",
+    "text": "#D97706"
+  },
+  {
+    "name": "Entertainment",
+    "color": "#FBD24D",
+    "tint": "#FEF6D0",
+    "text": "#B7791F"
+  },
+  {
+    "name": "Others",
+    "color": "#C4B5FD",
+    "tint": "#EFEAFF",
+    "text": "#7C5CE0"
+  }
+]
